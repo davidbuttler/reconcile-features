@@ -1,0 +1,12 @@
+<project name="reconcile-features" default="compile" basedir="." >
+
+	<description>Code to interact with hbase</description>
+
+	<property name="antMavenBuildDir" value="../ant-maven-build"/>
+	<import file="${antMavenBuildDir}/build.xml"/>
+	
+	<!--  =================================================================== -->
+	<!--  run targets                     -->
+	<!--  =================================================================== -->
+	
+</project>
